@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<menu xmlns:android="http://schemas.android.com/apk/res/android">  
+    <item
+        android:id="@+id/backmenu"
+		android:icon="@drawable/back_icon"
+		android:showAsAction="always"
+        android:title="@string/go_back"/>
+	<item
+		android:id="@+id/forwardmenu"
+		android:icon="@drawable/foward_icon"
+		android:showAsAction="always"
+		android:title="go forward"/>
+	<item
+		android:id="@+id/homemenu"
+		android:icon="@drawable/home_icon"
+		android:showAsAction="always"
+		android:title="home"/>
+    
+</menu>
